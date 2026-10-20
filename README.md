@@ -61,7 +61,7 @@ Results from different browsers and operating systems are not necessarily direct
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── SECURITY.md
-└──  .gitignore
+├── .gitignore
 
 ```
 
