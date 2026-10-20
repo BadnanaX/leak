@@ -61,14 +61,8 @@ Results from different browsers and operating systems are not necessarily direct
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── SECURITY.md
-├── .gitignore
-└── .github/
-    ├── ISSUE_TEMPLATE/
-    │   ├── bug_report.md
-    │   └── feature_request.md
-    ├── PULL_REQUEST_TEMPLATE.md
-    └── workflows/
-        └── pages.yml
+└──  .gitignore
+
 ```
 
 ## Contributing
