@@ -53,17 +53,35 @@ Results from different browsers and operating systems are not necessarily direct
 
 ## Project structure
 
-```text
-.
+leak/
+├── .github/
+│   └── workflows/
+│       └── pages.yml
 ├── index.html
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── SECURITY.md
-├── .gitignore
+└── .gitignore
 
-```
+ **What's included?**
+
++ index.html — The complete LEAK website, including the interface, browser-signal checks, digest generation, and optional IP lookup.
+
++ README.md — Project overview, features, usage instructions, and privacy notes.
+
++ LICENSE — MIT License.
+
++ CONTRIBUTING.md — Guidelines for contributing improvements.
+
++ CODE_OF_CONDUCT.md — Community participation standards.
+
++ SECURITY.md — Guidance for reporting security and privacy issues.
+
++ .gitignore — Excludes common temporary and local development files.
+
++ .github/workflows/pages.yml — GitHub Actions workflow for deploying LEAK to GitHub Pages.
 
 ## Contributing
 
