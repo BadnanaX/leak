@@ -53,6 +53,8 @@ Results from different browsers and operating systems are not necessarily direct
 
 ## Project structure
 
+```text
+.
 leak/
 ├── .github/
 │   └── workflows/
@@ -64,6 +66,8 @@ leak/
 ├── README.md
 ├── SECURITY.md
 └── index.html
+
+```
 
  **What's included?**
 
